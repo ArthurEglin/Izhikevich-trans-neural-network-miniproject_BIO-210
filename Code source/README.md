@@ -50,9 +50,7 @@ To compile and use all the fonctionalities offered by the program (documentation
 
 First of all, you need to clone the project in the folder of your choice :
 
-    git clone git@gitlab.epfl.ch:sv_cpp_projects/team_33.git
-    or
-    git clone https://gitlab.epfl.ch/sv_cpp_projects/team_33.git
+    git clone https://github.com/ArthurEglin/Izhikevich-trans-neural-network-miniproject_BIO-210.git
 
 Then use the following commands to build the needed folders and set up the program : 
 
